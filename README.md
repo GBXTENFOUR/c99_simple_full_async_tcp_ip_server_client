@@ -1,2 +1,6 @@
 # c99_simple_full_async_tcp_ip_server_client
-C99 simple full async TCP/IP server client with variable size messages and bandwidth calculation
+Simple TCP/IP server client with:
+- async connect
+- async read / write using select
+- variable size messages
+- actual bandwidth calculation
